@@ -1,0 +1,16 @@
+enum EntityQuality
+{
+	NORMAL = 0,
+	GENUINE = 1,
+	VINTAGE = 2,
+	UNUSUAL = 3,
+	UNIQUE = 4,
+	COMMUNITY = 5,
+	DEVELOPER = 6,
+	SELFMADE = 7,
+	CUSTOMIZED = 8,
+	STRANGE = 9,
+	COMPLETED = 10,
+	HAUNTED = 11,
+	TOURNAMENT = 12,
+};
