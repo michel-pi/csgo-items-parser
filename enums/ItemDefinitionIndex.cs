@@ -54,6 +54,7 @@ public enum ItemDefinitionIndex : short
 	WeaponCz75a = 63,
 	WeaponRevolver = 64,
 	WeaponTagrenade = 68,
+	WeaponKnifeGhost = 80,
 	WeaponBayonet = 500,
 	WeaponKnifeFlip = 505,
 	WeaponKnifeGut = 506,
