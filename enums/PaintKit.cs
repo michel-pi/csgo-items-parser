@@ -687,6 +687,7 @@ public enum PaintKit
 	Tacticat = 687
 	Exposure = 688
 	Ziggy = 689
+	LabRats = 800
 	Stymphalian = 690
 	Mortis = 691
 	NightRiot = 692
@@ -722,4 +723,21 @@ public enum PaintKit
 	Snek9 = 722
 	EyeOfAthena = 723
 	NightStripe = 735
+	Asiimov = 801
+	Momentum = 802
+	NeoNoir = 803
+	ModestThreat = 804
+	MechaIndustries = 805
+	Scavenger = 806
+	Signal = 807
+	OxideBlaze = 808
+	WoodFired = 809
+	Phosphor = 810
+	Magnesium = 811
+	PipeDown = 812
+	Nevermore = 813
+	BlackSand = 814
+	DangerClose = 815
+	Fubar = 816
+	Flashback = 817
 }

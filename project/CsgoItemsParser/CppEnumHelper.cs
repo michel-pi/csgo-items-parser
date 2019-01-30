@@ -54,14 +54,14 @@ namespace CsgoItemsParser
                     if(Compare(translation.Tag, paintKit.Tag))
                     {
                         hasTranslation = true;
-                        sb.AppendLine("\t" + BetterNaming(translation.Translation) + " = " + paintKit.Index.ToString());
+                        sb.AppendLine("\t" + BetterNaming(translation.Translation) + " = " + paintKit.Index.ToString() + ",");
                         break;
                     }
                 }
 
                 if(!hasTranslation)
                 {
-                    sb.AppendLine("\t" + BetterNaming(paintKit.Name) + " = " + paintKit.Index.ToString());
+                    sb.AppendLine("\t" + BetterNaming(paintKit.Name) + " = " + paintKit.Index.ToString() + ",");
                 }
             }
 
